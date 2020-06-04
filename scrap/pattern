@@ -1,3 +1,0 @@
-pattern => many{NUMBER -4} mail to { ADDRESS -rahulmala@gmail.com} about@{MY MESSAGE}@for every {TIME -100sec}
-
-#token = "NjM1MDM3OTA4MjgxMTk2NTQ0.XarQcA.gUUAEhaEgDoyoeK33LJ1OS_qdds"
